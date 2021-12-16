@@ -9,4 +9,11 @@ You can find the original dataset URL here: https://github.com/pendrag/EmoEvalEs
 
 If you use this work, please cite the following paper:
 
-GSI-UPM at IberLEF2021: Emotion Analysis ofSpanish Tweets by Finetuning theXLM-RoBERTa Language Model
+```
+@inproceedings{vera2021gsi,
+  title={GSI-UPM at IberLEF2021: Emotion Analysis of Spanish Tweets by Fine-tuning the XLM-RoBERTa Language Model},
+  author={Vera, D and Araque, O and Iglesias, CA},
+  booktitle={Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2021). CEUR Workshop Proceedings, CEUR-WS, M{\'a}laga, Spain},
+  year={2021}
+}
+```
